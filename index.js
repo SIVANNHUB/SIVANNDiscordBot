@@ -14,7 +14,7 @@ Bot.on("message", function(message){
     switch(message.content.toLowerCase()) {
 
         case "sivann":
-            message.channel.send(message.author + ",\n--> **__ស៊ីវណ្ណ__** <--\n**អាយុ** : 16 ឆ្នាំ\n**រៀនថ្នាក់ទី** : 11\n**រៀននៅ** : វិទ្យាល័យជាស៊ីមរក្សជ័យ");
+            message.channel.send(message.author + ",\n--> **ស៊ីវណ្ណ** <--\n**អាយុ** : 16 ឆ្នាំ\n**រៀនថ្នាក់ទី** : 11\n**រៀននៅ** : វិទ្យាល័យជាស៊ីមរក្សជ័យ");
         break;
 
     }
